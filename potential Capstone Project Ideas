@@ -1,0 +1,26 @@
+
+Below are three potential projects
+
+1.default of credit card clients from [UCI Machine Learning Repository]
+
+  Dataset - http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+  A relevant Paper - https://www.sciencedirect.com/science/article/pii/S0957417407006719
+
+  Initial thought: With the given dataset, I am very interested in building a predictive model for what type of clients may get default on their credit card payment.   
+
+2. AAII Investor Sentiment Data from [Quandl]
+
+  DataSet - https://www.quandl.com/data/AAII/AAII_SENTIMENT
+
+  A relevant paper - https://www.researchgate.net/publication/271702125_Bulls_Bearsand_Birds_Studying_the_Correlation_between_Twitter_Sentiment_and_the_SP500
+
+  Initial thought: with the given dataset, I am very interested in exploring if we can predict stock market based on individual investor sentiment.
+
+3. Detct Malaciou Exectable (AntiVirus) Data Set from [UCI Machine Learning Repository]
+  
+  Dataset - https://archive.ics.uci.edu/ml/datasets/Detect+Malacious+Executable(AntiVirus)
+  
+  A relevant paper - http://www.jmlr.org/papers/volume7/kolter06a/kolter06a.pdf
+  
+  Initial Thought: With the given dataset, it seems that we can find a way to classify malacious executables.
