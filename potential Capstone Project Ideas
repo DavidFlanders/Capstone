@@ -1,6 +1,13 @@
 
 Below are three potential projects
 
+1. Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014 Data Set [UCI Machine Learning Repository]
+  Dataset - https://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-2014
+  
+  A relevant Paper - https://www.semanticscholar.org/paper/Proof-Protocol-for-a-Machine-Learning-Technique-in-Pratt/7a354f93a27a733d207219b033be7c272a220f77
+
+  Initial thought: With stock recommendataion, can a model be built to increase short term return of a portfolio?
+
 1.default of credit card clients from [UCI Machine Learning Repository]
 
   Dataset - http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
