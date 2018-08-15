@@ -4,30 +4,44 @@ Below are three potential projects
 1. Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014 Data Set [UCI Machine Learning Repository]
   Dataset - https://archive.ics.uci.edu/ml/datasets/Machine+Learning+based+ZZAlpha+Ltd.+Stock+Recommendations+2012-2014
   
-  A relevant Paper - https://www.semanticscholar.org/paper/Proof-Protocol-for-a-Machine-Learning-Technique-in-Pratt/7a354f93a27a733d207219b033be7c272a220f77
+  A relevant paper - https://www.semanticscholar.org/paper/Proof-Protocol-for-a-Machine-Learning-Technique-in-Pratt/7a354f93a27a733d207219b033be7c272a220f77
 
   Initial thought: With stock recommendataion, can a model be built to increase short term return of a portfolio?
 
-1.default of credit card clients from [UCI Machine Learning Repository]
+2. Deutsche Börse Public Data Set [Registry of Open Data on AWS]
+  Dataset: https://registry.opendata.aws/deutsche-boerse-pds/
+  
+  A relevant paper: https://github.com/Originate/dbg-pds-tensorflow-demo  
+  
+  Initial thought: Explore if we can use the dataset to make predictions about future price movements.
+
+3. Chicago Crime Dataset
+  Dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+
+  Initial thought: Predict the type of crime.
+  
+  A relevant paper: http://nathanwayneholt.com/mathematicalmodeling/ChicagoCrimesReport.pdf
+
+4. Twitter sentiment analysis [Kaggle]
+  Dataset: https://www.kaggle.com/c/twitter-sentiment-analysis2/data
+
+  Initial thought: Classification and categorisation based on tags or labels.
+  
+  Paper https://arxiv.org/ftp/arxiv/papers/1601/1601.06971.pdf
+
+
+5.Default of credit card clients from [UCI Machine Learning Repository]
 
   Dataset - http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
-  A relevant Paper - https://www.sciencedirect.com/science/article/pii/S0957417407006719
+  A relevant paper - https://www.sciencedirect.com/science/article/pii/S0957417407006719
 
   Initial thought: With the given dataset, I am very interested in building a predictive model for what type of clients may get default on their credit card payment.   
 
-2. AAII Investor Sentiment Data from [Quandl]
-
-  DataSet - https://www.quandl.com/data/AAII/AAII_SENTIMENT
-
-  A relevant paper - https://www.researchgate.net/publication/271702125_Bulls_Bearsand_Birds_Studying_the_Correlation_between_Twitter_Sentiment_and_the_SP500
-
-  Initial thought: with the given dataset, I am very interested in exploring if we can predict stock market based on individual investor sentiment.
-
-3. Detct Malaciou Exectable (AntiVirus) Data Set from [UCI Machine Learning Repository]
+6. Detect Malaciou Exectable (AntiVirus) Data Set from [UCI Machine Learning Repository]
   
   Dataset - https://archive.ics.uci.edu/ml/datasets/Detect+Malacious+Executable(AntiVirus)
   
   A relevant paper - http://www.jmlr.org/papers/volume7/kolter06a/kolter06a.pdf
   
-  Initial Thought: With the given dataset, it seems that we can find a way to classify malacious executables.
+  Initial thought: With the given dataset, it seems that we can find a way to classify malacious executables.
