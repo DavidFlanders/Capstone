@@ -1,4 +1,4 @@
-# Capstone
+# Capstone - Data Analysis on Chicago Crime Dataset with Census Information
 
 The Chicago Data Portal publishes a dataset reflecting reported incidents of crime that occurred in the City of Chicago from 2001 to August 2018. 
 
