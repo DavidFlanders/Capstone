@@ -1,4 +1,4 @@
-# Capstone - Data Analysis on Chicago Crime Dataset with Census Information
+# Capstone - Impact Analyses of Census Features on Chicago Crime Rates through Machine Learning
 
 The Chicago Data Portal publishes a dataset reflecting reported incidents of crime that occurred in the City of Chicago from 2001 to August 2018. The CMAP Data Hub provides Chicago community area census information aggregated through the period of 2011 to 2015.
 
